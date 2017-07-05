@@ -1,0 +1,124 @@
+WARNING: no script file global.ded
+WARNING: no script file txt/dict.dct.ded
+Missing Words
+-------------
+4
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+    dict.dct      4860       4860       4860       4860
+        dict      4860       4860       4860       4860
+
+4861 words required, 1 missing
+
+New Phone Usage Counts
+---------------------
+  1. A     :   331
+  2. sp    :  4860
+  3. AAF   :    69
+  4. M     :   678
+  5. U     :   471
+  6. AAJ   :    77
+  7. AA    :    72
+  8. N     :   882
+  9. AAR   :    41
+ 10. AAS   :    98
+ 11. P     :   183
+ 12. Y     :   240
+ 13. AF    :   173
+ 14. O     :   418
+ 15. I     :   694
+ 16. AJ    :   183
+ 17. CH    :   316
+ 18. T     :   668
+ 19. NG    :   766
+ 20. NH    :   392
+ 21. AR    :   128
+ 22. AS    :   250
+ 23. C     :   471
+ 24. AWF   :    39
+ 25. AWJ   :    55
+ 26. AW    :    55
+ 27. AWS   :   102
+ 28. AWX   :    10
+ 29. AX    :    64
+ 30. B     :   247
+ 31. AAX   :    31
+ 32. E     :    84
+ 33. EE    :   126
+ 34. EEF   :    82
+ 35. EEJ   :   109
+ 36. EER   :    44
+ 37. EES   :   139
+ 38. EF    :    57
+ 39. EJ    :    47
+ 40. ES    :    91
+ 41. EX    :    20
+ 42. IA    :    11
+ 43. IF    :    52
+ 44. IJ    :    65
+ 45. IR    :    43
+ 46. IS    :    90
+ 47. IX    :    26
+ 48. OF    :    66
+ 49. OJ    :    79
+ 50. OOF   :    82
+ 51. OO    :    95
+ 52. OOJ   :    88
+ 53. OOR   :    49
+ 54. OOS   :   124
+ 55. OOX   :    33
+ 56. OR    :    50
+ 57. OS    :   116
+ 58. OW    :    89
+ 59. OWF   :    71
+ 60. OWJ   :    72
+ 61. OWR   :    39
+ 62. OWS   :    98
+ 63. OWX   :    27
+ 64. OX    :    25
+ 65. UF    :    68
+ 66. UJ    :    83
+ 67. UR    :    49
+ 68. US    :   112
+ 69. UWF   :    30
+ 70. UWJ   :    39
+ 71. UW    :   189
+ 72. UWR   :    33
+ 73. UWS   :    52
+ 74. UWX   :    23
+ 75. UX    :    35
+ 76. YS    :    10
+ 77. AWR   :    18
+ 78. ER    :    29
+ 79. :     :     1
+ 80. UA    :    43
+ 81. UWA   :    12
+ 82. D     :   170
+ 83. DD    :   240
+ 84. EEX   :    24
+ 85. G     :   107
+ 86. GH    :    22
+ 87. GI    :   104
+ 88. F     :     2
+ 89. R     :   198
+ 90. S     :   189
+ 91. H     :   259
+ 92. YF    :     6
+ 93. YR    :     8
+ 94. K     :    82
+ 95. KH    :   161
+ 96. YA    :     1
+ 97. YJ    :     6
+ 98. YX    :     4
+ 99. L     :   327
+ 100. NGH   :    33
+ 101. PH    :   125
+ 102. QU    :    97
+ 103. TH    :   241
+ 104. TR    :   173
+ 105. V     :   187
+ 106. X     :   174
+
+Dictionary txt/dict created

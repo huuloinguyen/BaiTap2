@@ -1,0 +1,50 @@
+------------------------ Sentence Scores --------------------------
+====================== HTK Results Analysis =======================
+  Date: Sat Jul 01 11:22:08 2017
+  Ref : mlf/words.mlf
+  Rec : test/recout.mlf
+-------------------------- File Results ---------------------------
+VIVOSSPK10_R069.rec:    0.00(-166.67)  [H=   0, D=  0, S=  3, I=  5, N=  3]
+Aligned transcription: C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R069.lab vs C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R069.rec
+ LAB:                     CAR BAN NGAFY 
+ REC: T CAS ARM DDAWNG AJ O   AF  Y     
+VIVOSSPK10_R070.rec:   11.11(-100.00)  [H=   1, D=  0, S=  8, I= 10, N=  9]
+Aligned transcription: C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R070.lab vs C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R070.rec
+ LAB:                  COFN COS KHASI NIEEJM  ROX               RAFNG VEEF SOOS LUWOWJNG 
+ REC: T COF NOWJ T COR OWF  OWJ KHASN NIEEFNG ROX LEX E U VI EE XOON  LUW  OW   OOJP     
+VIVOSSPK10_R071.rec:   50.00(  0.00)  [H=   4, D=  0, S=  4, I=  4, N=  8]
+Aligned transcription: C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R071.lab vs C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R071.rec
+ LAB:       DDOAJT GIARI NHAAST DDOWN CA     VOWSI TIEEST MUJC  
+ REC: C T K DDAJT  GIARI DIJCH  DDOWN CA EEM VOWSI TIEESC MOOJT 
+VIVOSSPK10_R072.rec:   33.33(-83.33)  [H=   2, D=  0, S=  4, I=  7, N=  6]
+Aligned transcription: C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R072.lab vs C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R072.rec
+ LAB:   SEX               LAFM CHO BAJN PHAST            DDIEEN 
+ REC: T SEX EES LAN CHAFO DDAX US  C    PHAST DDI EE UWS T      
+VIVOSSPK10_R073.rec:    0.00(-112.50)  [H=   0, D=  0, S=  8, I=  9, N=  8]
+Aligned transcription: C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R073.lab vs C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R073.rec
+ LAB:                                          TRONG  MUWA GIOS BAXO BUFNG VAF REST COSNG 
+ REC: T T CHAAU HOOF MUWOWFI DO ASCH DDAJO BUF UWOWNG RA   EES  VI   EES   C   TAS  UNG   
+VIVOSSPK10_R074.rec:   14.29(-42.86)  [H=   1, D=  0, S=  6, I=  4, N=  7]
+Aligned transcription: C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R074.lab vs C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R074.rec
+ LAB:              CASC CHUSA TEER SOWN  LAAM  COS      BOWFM 
+ REC: T CAST CHUFA TES  EE    XA   UWRNG LAWSM COS BOOF M     
+VIVOSSPK10_R075.rec:   35.71(-35.71)  [H=   5, D=  0, S=  9, I= 10, N= 14]
+Aligned transcription: C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R075.lab vs C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R075.rec
+ LAB:                 TOOI DDAX CHASN NGAASY VOWSI NHUWXNG   BUOORI GAWJP   GOWX  GIAO    LUWU  TAJO CARM      HUWSNG 
+ REC: T TUA U I DDAJI C    GIAS NGAY  EEJN   HUY   NHUWXNG V BUOORI GAWJP V LOWJI GIAO IF LUWFA TARO CARM H OW UWSNG  
+VIVOSSPK10_R076.rec:    0.00(-100.00)  [H=   0, D=  0, S=  8, I=  8, N=  8]
+Aligned transcription: C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R076.lab vs C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R076.rec
+ LAB:                                 CUWRA TRAFI COFN GOJI LAF MANG CAS    NHOR 
+ REC: T CUW OWS US I TRAI CAAFN LOAJI LAFM  NAF   EES  US   C   TROF NHAAJN OWJ  
+VIVOSSPK10_R077.rec:   16.67(-66.67)  [H=   2, D=  0, S= 10, I= 10, N= 12]
+Aligned transcription: C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R077.lab vs C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R077.rec
+ LAB:         NEESU CASC                            TAFI  XEES  THUWOWFNG XUYEEN CHAJY  THEO TOOSC DDOOJ QUI        DDIJNH 
+ REC: T THUWA NIEEU CASC TAY SEX E IJCH TRUWF UJ XU YEENG TRAJI YS        T      HIEESU TUST DDUS  V     QUI DDEESN IST    
+VIVOSSPK10_R078.rec:   42.86(  0.00)  [H=   3, D=  0, S=  4, I=  3, N=  7]
+Aligned transcription: C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R078.lab vs C:/Users/VIP/Desktop/NHLOI/wave/train/VIVOSSPK10_R078.rec
+ LAB:    CHIEESC    CUF  NEFO   VAFNG GIOOSNG NHAU      AASY 
+ REC: EE CHIEESC CU OORI NGHEFO VAFNG DOFNG   NHAU HOAY YS   
+------------------------ Overall Results --------------------------
+SENT: %Correct=0.00 [H=0, S=10, N=10]
+WORD: %Corr=21.95, Acc=-63.41 [H=18, D=0, S=64, I=70, N=82]
+===================================================================

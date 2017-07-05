@@ -1,0 +1,2 @@
+Data\1.wav	Data\1.mfcc
+Data\2.wav	Data\2.mfcc

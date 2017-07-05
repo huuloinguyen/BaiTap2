@@ -1,0 +1,540 @@
+RO 20 stats
+TR 0
+QS "l_A" {A-*}
+QS "l_AAF" {AAF-*}
+QS "l_M" {M-*}
+QS "l_U" {U-*}
+QS "l_AAJ" {AAJ-*}
+QS "l_AA" {AA-*}
+QS "l_N" {N-*}
+QS "l_AAR" {AAR-*}
+QS "l_AAS" {AAS-*}
+QS "l_P" {P-*}
+QS "l_Y" {Y-*}
+QS "l_AF" {AF-*}
+QS "l_O" {O-*}
+QS "l_I" {I-*}
+QS "l_AJ" {AJ-*}
+QS "l_CH" {CH-*}
+QS "l_T" {T-*}
+QS "l_NG" {NG-*}
+QS "l_NH" {NH-*}
+QS "l_AR" {AR-*}
+QS "l_AS" {AS-*}
+QS "l_C" {C-*}
+QS "l_AWF" {AWF-*}
+QS "l_AWJ" {AWJ-*}
+QS "l_AW" {AW-*}
+QS "l_AWS" {AWS-*}
+QS "l_AWX" {AWX-*}
+QS "l_AX" {AX-*}
+QS "l_B" {B-*}
+QS "l_AAX" {AAX-*}
+QS "l_E" {E-*}
+QS "l_EE" {EE-*}
+QS "l_EEF" {EEF-*}
+QS "l_EEJ" {EEJ-*}
+QS "l_EER" {EER-*}
+QS "l_EES" {EES-*}
+QS "l_EF" {EF-*}
+QS "l_EJ" {EJ-*}
+QS "l_ES" {ES-*}
+QS "l_EX" {EX-*}
+QS "l_IA" {IA-*}
+QS "l_IF" {IF-*}
+QS "l_IJ" {IJ-*}
+QS "l_IR" {IR-*}
+QS "l_IS" {IS-*}
+QS "l_IX" {IX-*}
+QS "l_OF" {OF-*}
+QS "l_OJ" {OJ-*}
+QS "l_OOF" {OOF-*}
+QS "l_OO" {OO-*}
+QS "l_OOJ" {OOJ-*}
+QS "l_OOR" {OOR-*}
+QS "l_OOS" {OOS-*}
+QS "l_OOX" {OOX-*}
+QS "l_OR" {OR-*}
+QS "l_OS" {OS-*}
+QS "l_OW" {OW-*}
+QS "l_OWF" {OWF-*}
+QS "l_OWJ" {OWJ-*}
+QS "l_OWR" {OWR-*}
+QS "l_OWS" {OWS-*}
+QS "l_OWX" {OWX-*}
+QS "l_OX" {OX-*}
+QS "l_UF" {UF-*}
+QS "l_UJ" {UJ-*}
+QS "l_UR" {UR-*}
+QS "l_US" {US-*}
+QS "l_UWF" {UWF-*}
+QS "l_UWJ" {UWJ-*}
+QS "l_UW" {UW-*}
+QS "l_UWR" {UWR-*}
+QS "l_UWS" {UWS-*}
+QS "l_UWX" {UWX-*}
+QS "l_UX" {UX-*}
+QS "l_YS" {YS-*}
+QS "l_AWR" {AWR-*}
+QS "l_ER" {ER-*}
+QS "l_:" {:-*}
+QS "l_UA" {UA-*}
+QS "l_UWA" {UWA-*}
+QS "l_D" {D-*}
+QS "l_DD" {DD-*}
+QS "l_EEX" {EEX-*}
+QS "l_G" {G-*}
+QS "l_GH" {GH-*}
+QS "l_GI" {GI-*}
+QS "l_F" {F-*}
+QS "l_R" {R-*}
+QS "l_S" {S-*}
+QS "l_H" {H-*}
+QS "l_YF" {YF-*}
+QS "l_YR" {YR-*}
+QS "l_K" {K-*}
+QS "l_KH" {KH-*}
+QS "l_YA" {YA-*}
+QS "l_YJ" {YJ-*}
+QS "l_YX" {YX-*}
+QS "l_L" {L-*}
+QS "l_NGH" {NGH-*}
+QS "l_PH" {PH-*}
+QS "l_QU" {QU-*}
+QS "l_TH" {TH-*}
+QS "l_TR" {TR-*}
+QS "l_V" {V-*}
+QS "l_X" {X-*}
+QS "l_sil" {sil-*}
+
+QS "r_A" {*+A}
+QS "r_AAF" {*+AAF}
+QS "r_M" {*+M}
+QS "r_U" {*+U}
+QS "r_AAJ" {*+AAJ}
+QS "r_AA" {*+AA}
+QS "r_N" {*+N}
+QS "r_AAR" {*+AAR}
+QS "r_AAS" {*+AAS}
+QS "r_P" {*+P}
+QS "r_Y" {*+Y}
+QS "r_AF" {*+AF}
+QS "r_O" {*+O}
+QS "r_I" {*+I}
+QS "r_AJ" {*+AJ}
+QS "r_CH" {*+CH}
+QS "r_T" {*+T}
+QS "r_NG" {*+NG}
+QS "r_NH" {*+NH}
+QS "r_AR" {*+AR}
+QS "r_AS" {*+AS}
+QS "r_C" {*+C}
+QS "r_AWF" {*+AWF}
+QS "r_AWJ" {*+AWJ}
+QS "r_AW" {*+AW}
+QS "r_AWS" {*+AWS}
+QS "r_AWX" {*+AWX}
+QS "r_AX" {*+AX}
+QS "r_B" {*+B}
+QS "r_AAX" {*+AAX}
+QS "r_E" {*+E}
+QS "r_EE" {*+EE}
+QS "r_EEF" {*+EEF}
+QS "r_EEJ" {*+EEJ}
+QS "r_EER" {*+EER}
+QS "r_EES" {*+EES}
+QS "r_EF" {*+EF}
+QS "r_EJ" {*+EJ}
+QS "r_ES" {*+ES}
+QS "r_EX" {*+EX}
+QS "r_IA" {*+IA}
+QS "r_IF" {*+IF}
+QS "r_IJ" {*+IJ}
+QS "r_IR" {*+IR}
+QS "r_IS" {*+IS}
+QS "r_IX" {*+IX}
+QS "r_OF" {*+OF}
+QS "r_OJ" {*+OJ}
+QS "r_OOF" {*+OOF}
+QS "r_OO" {*+OO}
+QS "r_OOJ" {*+OOJ}
+QS "r_OOR" {*+OOR}
+QS "r_OOS" {*+OOS}
+QS "r_OOX" {*+OOX}
+QS "r_OR" {*+OR}
+QS "r_OS" {*+OS}
+QS "r_OW" {*+OW}
+QS "r_OWF" {*+OWF}
+QS "r_OWJ" {*+OWJ}
+QS "r_OWR" {*+OWR}
+QS "r_OWS" {*+OWS}
+QS "r_OWX" {*+OWX}
+QS "r_OX" {*+OX}
+QS "r_UF" {*+UF}
+QS "r_UJ" {*+UJ}
+QS "r_UR" {*+UR}
+QS "r_US" {*+US}
+QS "r_UWF" {*+UWF}
+QS "r_UWJ" {*+UWJ}
+QS "r_UW" {*+UW}
+QS "r_UWR" {*+UWR}
+QS "r_UWS" {*+UWS}
+QS "r_UWX" {*+UWX}
+QS "r_UX" {*+UX}
+QS "r_YS" {*+YS}
+QS "r_AWR" {*+AWR}
+QS "r_ER" {*+ER}
+QS "r_:" {*+:}
+QS "r_UA" {*+UA}
+QS "r_UWA" {*+UWA}
+QS "r_D" {*+D}
+QS "r_DD" {*+DD}
+QS "r_EEX" {*+EEX}
+QS "r_G" {*+G}
+QS "r_GH" {*+GH}
+QS "r_GI" {*+GI}
+QS "r_F" {*+F}
+QS "r_R" {*+R}
+QS "r_S" {*+S}
+QS "r_H" {*+H}
+QS "r_YF" {*+YF}
+QS "r_YR" {*+YR}
+QS "r_K" {*+K}
+QS "r_KH" {*+KH}
+QS "r_YA" {*+YA}
+QS "r_YJ" {*+YJ}
+QS "r_YX" {*+YX}
+QS "r_L" {*+L}
+QS "r_NGH" {*+NGH}
+QS "r_PH" {*+PH}
+QS "r_QU" {*+QU}
+QS "r_TH" {*+TH}
+QS "r_TR" {*+TR}
+QS "r_V" {*+V}
+QS "r_X" {*+X}
+QS "r_sil" {*+sil}
+TR 2
+TB 40 "st_A_2_" {("A","*-A+*","A+*","*-A").state[2]}
+TB 40 "st_AAF_2_" {("AAF","*-AAF+*","AAF+*","*-AAF").state[2]}
+TB 40 "st_M_2_" {("M","*-M+*","M+*","*-M").state[2]}
+TB 40 "st_U_2_" {("U","*-U+*","U+*","*-U").state[2]}
+TB 40 "st_AAJ_2_" {("AAJ","*-AAJ+*","AAJ+*","*-AAJ").state[2]}
+TB 40 "st_AA_2_" {("AA","*-AA+*","AA+*","*-AA").state[2]}
+TB 40 "st_N_2_" {("N","*-N+*","N+*","*-N").state[2]}
+TB 40 "st_AAR_2_" {("AAR","*-AAR+*","AAR+*","*-AAR").state[2]}
+TB 40 "st_AAS_2_" {("AAS","*-AAS+*","AAS+*","*-AAS").state[2]}
+TB 40 "st_P_2_" {("P","*-P+*","P+*","*-P").state[2]}
+TB 40 "st_Y_2_" {("Y","*-Y+*","Y+*","*-Y").state[2]}
+TB 40 "st_AF_2_" {("AF","*-AF+*","AF+*","*-AF").state[2]}
+TB 40 "st_O_2_" {("O","*-O+*","O+*","*-O").state[2]}
+TB 40 "st_I_2_" {("I","*-I+*","I+*","*-I").state[2]}
+TB 40 "st_AJ_2_" {("AJ","*-AJ+*","AJ+*","*-AJ").state[2]}
+TB 40 "st_CH_2_" {("CH","*-CH+*","CH+*","*-CH").state[2]}
+TB 40 "st_T_2_" {("T","*-T+*","T+*","*-T").state[2]}
+TB 40 "st_NG_2_" {("NG","*-NG+*","NG+*","*-NG").state[2]}
+TB 40 "st_NH_2_" {("NH","*-NH+*","NH+*","*-NH").state[2]}
+TB 40 "st_AR_2_" {("AR","*-AR+*","AR+*","*-AR").state[2]}
+TB 40 "st_AS_2_" {("AS","*-AS+*","AS+*","*-AS").state[2]}
+TB 40 "st_C_2_" {("C","*-C+*","C+*","*-C").state[2]}
+TB 40 "st_AWF_2_" {("AWF","*-AWF+*","AWF+*","*-AWF").state[2]}
+TB 40 "st_AWJ_2_" {("AWJ","*-AWJ+*","AWJ+*","*-AWJ").state[2]}
+TB 40 "st_AW_2_" {("AW","*-AW+*","AW+*","*-AW").state[2]}
+TB 40 "st_AWS_2_" {("AWS","*-AWS+*","AWS+*","*-AWS").state[2]}
+TB 40 "st_AWX_2_" {("AWX","*-AWX+*","AWX+*","*-AWX").state[2]}
+TB 40 "st_AX_2_" {("AX","*-AX+*","AX+*","*-AX").state[2]}
+TB 40 "st_B_2_" {("B","*-B+*","B+*","*-B").state[2]}
+TB 40 "st_AAX_2_" {("AAX","*-AAX+*","AAX+*","*-AAX").state[2]}
+TB 40 "st_E_2_" {("E","*-E+*","E+*","*-E").state[2]}
+TB 40 "st_EE_2_" {("EE","*-EE+*","EE+*","*-EE").state[2]}
+TB 40 "st_EEF_2_" {("EEF","*-EEF+*","EEF+*","*-EEF").state[2]}
+TB 40 "st_EEJ_2_" {("EEJ","*-EEJ+*","EEJ+*","*-EEJ").state[2]}
+TB 40 "st_EER_2_" {("EER","*-EER+*","EER+*","*-EER").state[2]}
+TB 40 "st_EES_2_" {("EES","*-EES+*","EES+*","*-EES").state[2]}
+TB 40 "st_EF_2_" {("EF","*-EF+*","EF+*","*-EF").state[2]}
+TB 40 "st_EJ_2_" {("EJ","*-EJ+*","EJ+*","*-EJ").state[2]}
+TB 40 "st_ES_2_" {("ES","*-ES+*","ES+*","*-ES").state[2]}
+TB 40 "st_EX_2_" {("EX","*-EX+*","EX+*","*-EX").state[2]}
+TB 40 "st_IA_2_" {("IA","*-IA+*","IA+*","*-IA").state[2]}
+TB 40 "st_IF_2_" {("IF","*-IF+*","IF+*","*-IF").state[2]}
+TB 40 "st_IJ_2_" {("IJ","*-IJ+*","IJ+*","*-IJ").state[2]}
+TB 40 "st_IR_2_" {("IR","*-IR+*","IR+*","*-IR").state[2]}
+TB 40 "st_IS_2_" {("IS","*-IS+*","IS+*","*-IS").state[2]}
+TB 40 "st_IX_2_" {("IX","*-IX+*","IX+*","*-IX").state[2]}
+TB 40 "st_OF_2_" {("OF","*-OF+*","OF+*","*-OF").state[2]}
+TB 40 "st_OJ_2_" {("OJ","*-OJ+*","OJ+*","*-OJ").state[2]}
+TB 40 "st_OOF_2_" {("OOF","*-OOF+*","OOF+*","*-OOF").state[2]}
+TB 40 "st_OO_2_" {("OO","*-OO+*","OO+*","*-OO").state[2]}
+TB 40 "st_OOJ_2_" {("OOJ","*-OOJ+*","OOJ+*","*-OOJ").state[2]}
+TB 40 "st_OOR_2_" {("OOR","*-OOR+*","OOR+*","*-OOR").state[2]}
+TB 40 "st_OOS_2_" {("OOS","*-OOS+*","OOS+*","*-OOS").state[2]}
+TB 40 "st_OOX_2_" {("OOX","*-OOX+*","OOX+*","*-OOX").state[2]}
+TB 40 "st_OR_2_" {("OR","*-OR+*","OR+*","*-OR").state[2]}
+TB 40 "st_OS_2_" {("OS","*-OS+*","OS+*","*-OS").state[2]}
+TB 40 "st_OW_2_" {("OW","*-OW+*","OW+*","*-OW").state[2]}
+TB 40 "st_OWF_2_" {("OWF","*-OWF+*","OWF+*","*-OWF").state[2]}
+TB 40 "st_OWJ_2_" {("OWJ","*-OWJ+*","OWJ+*","*-OWJ").state[2]}
+TB 40 "st_OWR_2_" {("OWR","*-OWR+*","OWR+*","*-OWR").state[2]}
+TB 40 "st_OWS_2_" {("OWS","*-OWS+*","OWS+*","*-OWS").state[2]}
+TB 40 "st_OWX_2_" {("OWX","*-OWX+*","OWX+*","*-OWX").state[2]}
+TB 40 "st_OX_2_" {("OX","*-OX+*","OX+*","*-OX").state[2]}
+TB 40 "st_UF_2_" {("UF","*-UF+*","UF+*","*-UF").state[2]}
+TB 40 "st_UJ_2_" {("UJ","*-UJ+*","UJ+*","*-UJ").state[2]}
+TB 40 "st_UR_2_" {("UR","*-UR+*","UR+*","*-UR").state[2]}
+TB 40 "st_US_2_" {("US","*-US+*","US+*","*-US").state[2]}
+TB 40 "st_UWF_2_" {("UWF","*-UWF+*","UWF+*","*-UWF").state[2]}
+TB 40 "st_UWJ_2_" {("UWJ","*-UWJ+*","UWJ+*","*-UWJ").state[2]}
+TB 40 "st_UW_2_" {("UW","*-UW+*","UW+*","*-UW").state[2]}
+TB 40 "st_UWR_2_" {("UWR","*-UWR+*","UWR+*","*-UWR").state[2]}
+TB 40 "st_UWS_2_" {("UWS","*-UWS+*","UWS+*","*-UWS").state[2]}
+TB 40 "st_UWX_2_" {("UWX","*-UWX+*","UWX+*","*-UWX").state[2]}
+TB 40 "st_UX_2_" {("UX","*-UX+*","UX+*","*-UX").state[2]}
+TB 40 "st_YS_2_" {("YS","*-YS+*","YS+*","*-YS").state[2]}
+TB 40 "st_AWR_2_" {("AWR","*-AWR+*","AWR+*","*-AWR").state[2]}
+TB 40 "st_ER_2_" {("ER","*-ER+*","ER+*","*-ER").state[2]}
+TB 40 "st_:_2_" {(":","*-:+*",":+*","*-:").state[2]}
+TB 40 "st_UA_2_" {("UA","*-UA+*","UA+*","*-UA").state[2]}
+TB 40 "st_UWA_2_" {("UWA","*-UWA+*","UWA+*","*-UWA").state[2]}
+TB 40 "st_D_2_" {("D","*-D+*","D+*","*-D").state[2]}
+TB 40 "st_DD_2_" {("DD","*-DD+*","DD+*","*-DD").state[2]}
+TB 40 "st_EEX_2_" {("EEX","*-EEX+*","EEX+*","*-EEX").state[2]}
+TB 40 "st_G_2_" {("G","*-G+*","G+*","*-G").state[2]}
+TB 40 "st_GH_2_" {("GH","*-GH+*","GH+*","*-GH").state[2]}
+TB 40 "st_GI_2_" {("GI","*-GI+*","GI+*","*-GI").state[2]}
+TB 40 "st_F_2_" {("F","*-F+*","F+*","*-F").state[2]}
+TB 40 "st_R_2_" {("R","*-R+*","R+*","*-R").state[2]}
+TB 40 "st_S_2_" {("S","*-S+*","S+*","*-S").state[2]}
+TB 40 "st_H_2_" {("H","*-H+*","H+*","*-H").state[2]}
+TB 40 "st_YF_2_" {("YF","*-YF+*","YF+*","*-YF").state[2]}
+TB 40 "st_YR_2_" {("YR","*-YR+*","YR+*","*-YR").state[2]}
+TB 40 "st_K_2_" {("K","*-K+*","K+*","*-K").state[2]}
+TB 40 "st_KH_2_" {("KH","*-KH+*","KH+*","*-KH").state[2]}
+TB 40 "st_YA_2_" {("YA","*-YA+*","YA+*","*-YA").state[2]}
+TB 40 "st_YJ_2_" {("YJ","*-YJ+*","YJ+*","*-YJ").state[2]}
+TB 40 "st_YX_2_" {("YX","*-YX+*","YX+*","*-YX").state[2]}
+TB 40 "st_L_2_" {("L","*-L+*","L+*","*-L").state[2]}
+TB 40 "st_NGH_2_" {("NGH","*-NGH+*","NGH+*","*-NGH").state[2]}
+TB 40 "st_PH_2_" {("PH","*-PH+*","PH+*","*-PH").state[2]}
+TB 40 "st_QU_2_" {("QU","*-QU+*","QU+*","*-QU").state[2]}
+TB 40 "st_TH_2_" {("TH","*-TH+*","TH+*","*-TH").state[2]}
+TB 40 "st_TR_2_" {("TR","*-TR+*","TR+*","*-TR").state[2]}
+TB 40 "st_V_2_" {("V","*-V+*","V+*","*-V").state[2]}
+TB 40 "st_X_2_" {("X","*-X+*","X+*","*-X").state[2]}
+TB 40 "st_sil_2_" {("sil","*-sil+*","sil+*","*-sil").state[2]}
+
+TB 40 "st_A_3_" {("A","*-A+*","A+*","*-A").state[3]}
+TB 40 "st_AAF_3_" {("AAF","*-AAF+*","AAF+*","*-AAF").state[3]}
+TB 40 "st_M_3_" {("M","*-M+*","M+*","*-M").state[3]}
+TB 40 "st_U_3_" {("U","*-U+*","U+*","*-U").state[3]}
+TB 40 "st_AAJ_3_" {("AAJ","*-AAJ+*","AAJ+*","*-AAJ").state[3]}
+TB 40 "st_AA_3_" {("AA","*-AA+*","AA+*","*-AA").state[3]}
+TB 40 "st_N_3_" {("N","*-N+*","N+*","*-N").state[3]}
+TB 40 "st_AAR_3_" {("AAR","*-AAR+*","AAR+*","*-AAR").state[3]}
+TB 40 "st_AAS_3_" {("AAS","*-AAS+*","AAS+*","*-AAS").state[3]}
+TB 40 "st_P_3_" {("P","*-P+*","P+*","*-P").state[3]}
+TB 40 "st_Y_3_" {("Y","*-Y+*","Y+*","*-Y").state[3]}
+TB 40 "st_AF_3_" {("AF","*-AF+*","AF+*","*-AF").state[3]}
+TB 40 "st_O_3_" {("O","*-O+*","O+*","*-O").state[3]}
+TB 40 "st_I_3_" {("I","*-I+*","I+*","*-I").state[3]}
+TB 40 "st_AJ_3_" {("AJ","*-AJ+*","AJ+*","*-AJ").state[3]}
+TB 40 "st_CH_3_" {("CH","*-CH+*","CH+*","*-CH").state[3]}
+TB 40 "st_T_3_" {("T","*-T+*","T+*","*-T").state[3]}
+TB 40 "st_NG_3_" {("NG","*-NG+*","NG+*","*-NG").state[3]}
+TB 40 "st_NH_3_" {("NH","*-NH+*","NH+*","*-NH").state[3]}
+TB 40 "st_AR_3_" {("AR","*-AR+*","AR+*","*-AR").state[3]}
+TB 40 "st_AS_3_" {("AS","*-AS+*","AS+*","*-AS").state[3]}
+TB 40 "st_C_3_" {("C","*-C+*","C+*","*-C").state[3]}
+TB 40 "st_AWF_3_" {("AWF","*-AWF+*","AWF+*","*-AWF").state[3]}
+TB 40 "st_AWJ_3_" {("AWJ","*-AWJ+*","AWJ+*","*-AWJ").state[3]}
+TB 40 "st_AW_3_" {("AW","*-AW+*","AW+*","*-AW").state[3]}
+TB 40 "st_AWS_3_" {("AWS","*-AWS+*","AWS+*","*-AWS").state[3]}
+TB 40 "st_AWX_3_" {("AWX","*-AWX+*","AWX+*","*-AWX").state[3]}
+TB 40 "st_AX_3_" {("AX","*-AX+*","AX+*","*-AX").state[3]}
+TB 40 "st_B_3_" {("B","*-B+*","B+*","*-B").state[3]}
+TB 40 "st_AAX_3_" {("AAX","*-AAX+*","AAX+*","*-AAX").state[3]}
+TB 40 "st_E_3_" {("E","*-E+*","E+*","*-E").state[3]}
+TB 40 "st_EE_3_" {("EE","*-EE+*","EE+*","*-EE").state[3]}
+TB 40 "st_EEF_3_" {("EEF","*-EEF+*","EEF+*","*-EEF").state[3]}
+TB 40 "st_EEJ_3_" {("EEJ","*-EEJ+*","EEJ+*","*-EEJ").state[3]}
+TB 40 "st_EER_3_" {("EER","*-EER+*","EER+*","*-EER").state[3]}
+TB 40 "st_EES_3_" {("EES","*-EES+*","EES+*","*-EES").state[3]}
+TB 40 "st_EF_3_" {("EF","*-EF+*","EF+*","*-EF").state[3]}
+TB 40 "st_EJ_3_" {("EJ","*-EJ+*","EJ+*","*-EJ").state[3]}
+TB 40 "st_ES_3_" {("ES","*-ES+*","ES+*","*-ES").state[3]}
+TB 40 "st_EX_3_" {("EX","*-EX+*","EX+*","*-EX").state[3]}
+TB 40 "st_IA_3_" {("IA","*-IA+*","IA+*","*-IA").state[3]}
+TB 40 "st_IF_3_" {("IF","*-IF+*","IF+*","*-IF").state[3]}
+TB 40 "st_IJ_3_" {("IJ","*-IJ+*","IJ+*","*-IJ").state[3]}
+TB 40 "st_IR_3_" {("IR","*-IR+*","IR+*","*-IR").state[3]}
+TB 40 "st_IS_3_" {("IS","*-IS+*","IS+*","*-IS").state[3]}
+TB 40 "st_IX_3_" {("IX","*-IX+*","IX+*","*-IX").state[3]}
+TB 40 "st_OF_3_" {("OF","*-OF+*","OF+*","*-OF").state[3]}
+TB 40 "st_OJ_3_" {("OJ","*-OJ+*","OJ+*","*-OJ").state[3]}
+TB 40 "st_OOF_3_" {("OOF","*-OOF+*","OOF+*","*-OOF").state[3]}
+TB 40 "st_OO_3_" {("OO","*-OO+*","OO+*","*-OO").state[3]}
+TB 40 "st_OOJ_3_" {("OOJ","*-OOJ+*","OOJ+*","*-OOJ").state[3]}
+TB 40 "st_OOR_3_" {("OOR","*-OOR+*","OOR+*","*-OOR").state[3]}
+TB 40 "st_OOS_3_" {("OOS","*-OOS+*","OOS+*","*-OOS").state[3]}
+TB 40 "st_OOX_3_" {("OOX","*-OOX+*","OOX+*","*-OOX").state[3]}
+TB 40 "st_OR_3_" {("OR","*-OR+*","OR+*","*-OR").state[3]}
+TB 40 "st_OS_3_" {("OS","*-OS+*","OS+*","*-OS").state[3]}
+TB 40 "st_OW_3_" {("OW","*-OW+*","OW+*","*-OW").state[3]}
+TB 40 "st_OWF_3_" {("OWF","*-OWF+*","OWF+*","*-OWF").state[3]}
+TB 40 "st_OWJ_3_" {("OWJ","*-OWJ+*","OWJ+*","*-OWJ").state[3]}
+TB 40 "st_OWR_3_" {("OWR","*-OWR+*","OWR+*","*-OWR").state[3]}
+TB 40 "st_OWS_3_" {("OWS","*-OWS+*","OWS+*","*-OWS").state[3]}
+TB 40 "st_OWX_3_" {("OWX","*-OWX+*","OWX+*","*-OWX").state[3]}
+TB 40 "st_OX_3_" {("OX","*-OX+*","OX+*","*-OX").state[3]}
+TB 40 "st_UF_3_" {("UF","*-UF+*","UF+*","*-UF").state[3]}
+TB 40 "st_UJ_3_" {("UJ","*-UJ+*","UJ+*","*-UJ").state[3]}
+TB 40 "st_UR_3_" {("UR","*-UR+*","UR+*","*-UR").state[3]}
+TB 40 "st_US_3_" {("US","*-US+*","US+*","*-US").state[3]}
+TB 40 "st_UWF_3_" {("UWF","*-UWF+*","UWF+*","*-UWF").state[3]}
+TB 40 "st_UWJ_3_" {("UWJ","*-UWJ+*","UWJ+*","*-UWJ").state[3]}
+TB 40 "st_UW_3_" {("UW","*-UW+*","UW+*","*-UW").state[3]}
+TB 40 "st_UWR_3_" {("UWR","*-UWR+*","UWR+*","*-UWR").state[3]}
+TB 40 "st_UWS_3_" {("UWS","*-UWS+*","UWS+*","*-UWS").state[3]}
+TB 40 "st_UWX_3_" {("UWX","*-UWX+*","UWX+*","*-UWX").state[3]}
+TB 40 "st_UX_3_" {("UX","*-UX+*","UX+*","*-UX").state[3]}
+TB 40 "st_YS_3_" {("YS","*-YS+*","YS+*","*-YS").state[3]}
+TB 40 "st_AWR_3_" {("AWR","*-AWR+*","AWR+*","*-AWR").state[3]}
+TB 40 "st_ER_3_" {("ER","*-ER+*","ER+*","*-ER").state[3]}
+TB 40 "st_:_3_" {(":","*-:+*",":+*","*-:").state[3]}
+TB 40 "st_UA_3_" {("UA","*-UA+*","UA+*","*-UA").state[3]}
+TB 40 "st_UWA_3_" {("UWA","*-UWA+*","UWA+*","*-UWA").state[3]}
+TB 40 "st_D_3_" {("D","*-D+*","D+*","*-D").state[3]}
+TB 40 "st_DD_3_" {("DD","*-DD+*","DD+*","*-DD").state[3]}
+TB 40 "st_EEX_3_" {("EEX","*-EEX+*","EEX+*","*-EEX").state[3]}
+TB 40 "st_G_3_" {("G","*-G+*","G+*","*-G").state[3]}
+TB 40 "st_GH_3_" {("GH","*-GH+*","GH+*","*-GH").state[3]}
+TB 40 "st_GI_3_" {("GI","*-GI+*","GI+*","*-GI").state[3]}
+TB 40 "st_F_3_" {("F","*-F+*","F+*","*-F").state[3]}
+TB 40 "st_R_3_" {("R","*-R+*","R+*","*-R").state[3]}
+TB 40 "st_S_3_" {("S","*-S+*","S+*","*-S").state[3]}
+TB 40 "st_H_3_" {("H","*-H+*","H+*","*-H").state[3]}
+TB 40 "st_YF_3_" {("YF","*-YF+*","YF+*","*-YF").state[3]}
+TB 40 "st_YR_3_" {("YR","*-YR+*","YR+*","*-YR").state[3]}
+TB 40 "st_K_3_" {("K","*-K+*","K+*","*-K").state[3]}
+TB 40 "st_KH_3_" {("KH","*-KH+*","KH+*","*-KH").state[3]}
+TB 40 "st_YA_3_" {("YA","*-YA+*","YA+*","*-YA").state[3]}
+TB 40 "st_YJ_3_" {("YJ","*-YJ+*","YJ+*","*-YJ").state[3]}
+TB 40 "st_YX_3_" {("YX","*-YX+*","YX+*","*-YX").state[3]}
+TB 40 "st_L_3_" {("L","*-L+*","L+*","*-L").state[3]}
+TB 40 "st_NGH_3_" {("NGH","*-NGH+*","NGH+*","*-NGH").state[3]}
+TB 40 "st_PH_3_" {("PH","*-PH+*","PH+*","*-PH").state[3]}
+TB 40 "st_QU_3_" {("QU","*-QU+*","QU+*","*-QU").state[3]}
+TB 40 "st_TH_3_" {("TH","*-TH+*","TH+*","*-TH").state[3]}
+TB 40 "st_TR_3_" {("TR","*-TR+*","TR+*","*-TR").state[3]}
+TB 40 "st_V_3_" {("V","*-V+*","V+*","*-V").state[3]}
+TB 40 "st_X_3_" {("X","*-X+*","X+*","*-X").state[3]}
+TB 40 "st_sil_3_" {("sil","*-sil+*","sil+*","*-sil").state[3]}
+
+TB 40 "st_A_4_" {("A","*-A+*","A+*","*-A").state[4]}
+TB 40 "st_AAF_4_" {("AAF","*-AAF+*","AAF+*","*-AAF").state[4]}
+TB 40 "st_M_4_" {("M","*-M+*","M+*","*-M").state[4]}
+TB 40 "st_U_4_" {("U","*-U+*","U+*","*-U").state[4]}
+TB 40 "st_AAJ_4_" {("AAJ","*-AAJ+*","AAJ+*","*-AAJ").state[4]}
+TB 40 "st_AA_4_" {("AA","*-AA+*","AA+*","*-AA").state[4]}
+TB 40 "st_N_4_" {("N","*-N+*","N+*","*-N").state[4]}
+TB 40 "st_AAR_4_" {("AAR","*-AAR+*","AAR+*","*-AAR").state[4]}
+TB 40 "st_AAS_4_" {("AAS","*-AAS+*","AAS+*","*-AAS").state[4]}
+TB 40 "st_P_4_" {("P","*-P+*","P+*","*-P").state[4]}
+TB 40 "st_Y_4_" {("Y","*-Y+*","Y+*","*-Y").state[4]}
+TB 40 "st_AF_4_" {("AF","*-AF+*","AF+*","*-AF").state[4]}
+TB 40 "st_O_4_" {("O","*-O+*","O+*","*-O").state[4]}
+TB 40 "st_I_4_" {("I","*-I+*","I+*","*-I").state[4]}
+TB 40 "st_AJ_4_" {("AJ","*-AJ+*","AJ+*","*-AJ").state[4]}
+TB 40 "st_CH_4_" {("CH","*-CH+*","CH+*","*-CH").state[4]}
+TB 40 "st_T_4_" {("T","*-T+*","T+*","*-T").state[4]}
+TB 40 "st_NG_4_" {("NG","*-NG+*","NG+*","*-NG").state[4]}
+TB 40 "st_NH_4_" {("NH","*-NH+*","NH+*","*-NH").state[4]}
+TB 40 "st_AR_4_" {("AR","*-AR+*","AR+*","*-AR").state[4]}
+TB 40 "st_AS_4_" {("AS","*-AS+*","AS+*","*-AS").state[4]}
+TB 40 "st_C_4_" {("C","*-C+*","C+*","*-C").state[4]}
+TB 40 "st_AWF_4_" {("AWF","*-AWF+*","AWF+*","*-AWF").state[4]}
+TB 40 "st_AWJ_4_" {("AWJ","*-AWJ+*","AWJ+*","*-AWJ").state[4]}
+TB 40 "st_AW_4_" {("AW","*-AW+*","AW+*","*-AW").state[4]}
+TB 40 "st_AWS_4_" {("AWS","*-AWS+*","AWS+*","*-AWS").state[4]}
+TB 40 "st_AWX_4_" {("AWX","*-AWX+*","AWX+*","*-AWX").state[4]}
+TB 40 "st_AX_4_" {("AX","*-AX+*","AX+*","*-AX").state[4]}
+TB 40 "st_B_4_" {("B","*-B+*","B+*","*-B").state[4]}
+TB 40 "st_AAX_4_" {("AAX","*-AAX+*","AAX+*","*-AAX").state[4]}
+TB 40 "st_E_4_" {("E","*-E+*","E+*","*-E").state[4]}
+TB 40 "st_EE_4_" {("EE","*-EE+*","EE+*","*-EE").state[4]}
+TB 40 "st_EEF_4_" {("EEF","*-EEF+*","EEF+*","*-EEF").state[4]}
+TB 40 "st_EEJ_4_" {("EEJ","*-EEJ+*","EEJ+*","*-EEJ").state[4]}
+TB 40 "st_EER_4_" {("EER","*-EER+*","EER+*","*-EER").state[4]}
+TB 40 "st_EES_4_" {("EES","*-EES+*","EES+*","*-EES").state[4]}
+TB 40 "st_EF_4_" {("EF","*-EF+*","EF+*","*-EF").state[4]}
+TB 40 "st_EJ_4_" {("EJ","*-EJ+*","EJ+*","*-EJ").state[4]}
+TB 40 "st_ES_4_" {("ES","*-ES+*","ES+*","*-ES").state[4]}
+TB 40 "st_EX_4_" {("EX","*-EX+*","EX+*","*-EX").state[4]}
+TB 40 "st_IA_4_" {("IA","*-IA+*","IA+*","*-IA").state[4]}
+TB 40 "st_IF_4_" {("IF","*-IF+*","IF+*","*-IF").state[4]}
+TB 40 "st_IJ_4_" {("IJ","*-IJ+*","IJ+*","*-IJ").state[4]}
+TB 40 "st_IR_4_" {("IR","*-IR+*","IR+*","*-IR").state[4]}
+TB 40 "st_IS_4_" {("IS","*-IS+*","IS+*","*-IS").state[4]}
+TB 40 "st_IX_4_" {("IX","*-IX+*","IX+*","*-IX").state[4]}
+TB 40 "st_OF_4_" {("OF","*-OF+*","OF+*","*-OF").state[4]}
+TB 40 "st_OJ_4_" {("OJ","*-OJ+*","OJ+*","*-OJ").state[4]}
+TB 40 "st_OOF_4_" {("OOF","*-OOF+*","OOF+*","*-OOF").state[4]}
+TB 40 "st_OO_4_" {("OO","*-OO+*","OO+*","*-OO").state[4]}
+TB 40 "st_OOJ_4_" {("OOJ","*-OOJ+*","OOJ+*","*-OOJ").state[4]}
+TB 40 "st_OOR_4_" {("OOR","*-OOR+*","OOR+*","*-OOR").state[4]}
+TB 40 "st_OOS_4_" {("OOS","*-OOS+*","OOS+*","*-OOS").state[4]}
+TB 40 "st_OOX_4_" {("OOX","*-OOX+*","OOX+*","*-OOX").state[4]}
+TB 40 "st_OR_4_" {("OR","*-OR+*","OR+*","*-OR").state[4]}
+TB 40 "st_OS_4_" {("OS","*-OS+*","OS+*","*-OS").state[4]}
+TB 40 "st_OW_4_" {("OW","*-OW+*","OW+*","*-OW").state[4]}
+TB 40 "st_OWF_4_" {("OWF","*-OWF+*","OWF+*","*-OWF").state[4]}
+TB 40 "st_OWJ_4_" {("OWJ","*-OWJ+*","OWJ+*","*-OWJ").state[4]}
+TB 40 "st_OWR_4_" {("OWR","*-OWR+*","OWR+*","*-OWR").state[4]}
+TB 40 "st_OWS_4_" {("OWS","*-OWS+*","OWS+*","*-OWS").state[4]}
+TB 40 "st_OWX_4_" {("OWX","*-OWX+*","OWX+*","*-OWX").state[4]}
+TB 40 "st_OX_4_" {("OX","*-OX+*","OX+*","*-OX").state[4]}
+TB 40 "st_UF_4_" {("UF","*-UF+*","UF+*","*-UF").state[4]}
+TB 40 "st_UJ_4_" {("UJ","*-UJ+*","UJ+*","*-UJ").state[4]}
+TB 40 "st_UR_4_" {("UR","*-UR+*","UR+*","*-UR").state[4]}
+TB 40 "st_US_4_" {("US","*-US+*","US+*","*-US").state[4]}
+TB 40 "st_UWF_4_" {("UWF","*-UWF+*","UWF+*","*-UWF").state[4]}
+TB 40 "st_UWJ_4_" {("UWJ","*-UWJ+*","UWJ+*","*-UWJ").state[4]}
+TB 40 "st_UW_4_" {("UW","*-UW+*","UW+*","*-UW").state[4]}
+TB 40 "st_UWR_4_" {("UWR","*-UWR+*","UWR+*","*-UWR").state[4]}
+TB 40 "st_UWS_4_" {("UWS","*-UWS+*","UWS+*","*-UWS").state[4]}
+TB 40 "st_UWX_4_" {("UWX","*-UWX+*","UWX+*","*-UWX").state[4]}
+TB 40 "st_UX_4_" {("UX","*-UX+*","UX+*","*-UX").state[4]}
+TB 40 "st_YS_4_" {("YS","*-YS+*","YS+*","*-YS").state[4]}
+TB 40 "st_AWR_4_" {("AWR","*-AWR+*","AWR+*","*-AWR").state[4]}
+TB 40 "st_ER_4_" {("ER","*-ER+*","ER+*","*-ER").state[4]}
+TB 40 "st_:_4_" {(":","*-:+*",":+*","*-:").state[4]}
+TB 40 "st_UA_4_" {("UA","*-UA+*","UA+*","*-UA").state[4]}
+TB 40 "st_UWA_4_" {("UWA","*-UWA+*","UWA+*","*-UWA").state[4]}
+TB 40 "st_D_4_" {("D","*-D+*","D+*","*-D").state[4]}
+TB 40 "st_DD_4_" {("DD","*-DD+*","DD+*","*-DD").state[4]}
+TB 40 "st_EEX_4_" {("EEX","*-EEX+*","EEX+*","*-EEX").state[4]}
+TB 40 "st_G_4_" {("G","*-G+*","G+*","*-G").state[4]}
+TB 40 "st_GH_4_" {("GH","*-GH+*","GH+*","*-GH").state[4]}
+TB 40 "st_GI_4_" {("GI","*-GI+*","GI+*","*-GI").state[4]}
+TB 40 "st_F_4_" {("F","*-F+*","F+*","*-F").state[4]}
+TB 40 "st_R_4_" {("R","*-R+*","R+*","*-R").state[4]}
+TB 40 "st_S_4_" {("S","*-S+*","S+*","*-S").state[4]}
+TB 40 "st_H_4_" {("H","*-H+*","H+*","*-H").state[4]}
+TB 40 "st_YF_4_" {("YF","*-YF+*","YF+*","*-YF").state[4]}
+TB 40 "st_YR_4_" {("YR","*-YR+*","YR+*","*-YR").state[4]}
+TB 40 "st_K_4_" {("K","*-K+*","K+*","*-K").state[4]}
+TB 40 "st_KH_4_" {("KH","*-KH+*","KH+*","*-KH").state[4]}
+TB 40 "st_YA_4_" {("YA","*-YA+*","YA+*","*-YA").state[4]}
+TB 40 "st_YJ_4_" {("YJ","*-YJ+*","YJ+*","*-YJ").state[4]}
+TB 40 "st_YX_4_" {("YX","*-YX+*","YX+*","*-YX").state[4]}
+TB 40 "st_L_4_" {("L","*-L+*","L+*","*-L").state[4]}
+TB 40 "st_NGH_4_" {("NGH","*-NGH+*","NGH+*","*-NGH").state[4]}
+TB 40 "st_PH_4_" {("PH","*-PH+*","PH+*","*-PH").state[4]}
+TB 40 "st_QU_4_" {("QU","*-QU+*","QU+*","*-QU").state[4]}
+TB 40 "st_TH_4_" {("TH","*-TH+*","TH+*","*-TH").state[4]}
+TB 40 "st_TR_4_" {("TR","*-TR+*","TR+*","*-TR").state[4]}
+TB 40 "st_V_4_" {("V","*-V+*","V+*","*-V").state[4]}
+TB 40 "st_X_4_" {("X","*-X+*","X+*","*-X").state[4]}
+TB 40 "st_sil_4_" {("sil","*-sil+*","sil+*","*-sil").state[4]}
+TR 1
+AU "fulllist"
+CO "tiedlist"
+ST "trees"
